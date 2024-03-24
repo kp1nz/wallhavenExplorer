@@ -1,6 +1,7 @@
 # wallhavenExplorer
 
 ```
+npm install
 npm install puppeteer
 ```
 
